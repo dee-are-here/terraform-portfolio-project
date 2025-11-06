@@ -13,3 +13,6 @@ AWS security and performance best practices applied
 Source code and provisioning scripts managed in GitHub
 
 This project demonstrates the practical application of cloud deployment, automation, scalability planning, and performance optimization in a real-world client scenario.
+
+Link to Loom Video
+<https://loom.com/share/4f22ca26dc9c420aa243af58731d29d0>
