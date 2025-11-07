@@ -1,0 +1,21 @@
+.terraform/
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.tfstate.lock.info
+# keep lockfile
+!.terraform.lock.hcl
+
+# Next.js / Node
+node_modules/
+.next/
+out/
+.env
+npm-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
